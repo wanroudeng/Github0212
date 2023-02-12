@@ -1,0 +1,93 @@
+h2::before{
+    content:"★";
+    color:#D9B300;
+}
+.menu{
+    background-color:#40E0D0;
+    text-align:right;   
+    position: fixed;
+    opacity:0.6;
+    width:100%;
+}
+.menu a{
+    text-decoration:none;
+    padding:10px 20px;
+    color:black;
+    display:inline-block;
+    font-size:16px;
+}
+.menu a:hover{
+    background-color:#87CEEB;
+    transition:0.5S;
+    
+}
+.menu span{
+    font-size:32px;
+    float:left;
+}
+.menu img{
+    float:left;
+    width: 35px;
+    height:38.5px;
+}
+.pic img{
+    width:100%;
+    height:100%;
+    vertical-align:bottom;
+}
+.me{
+    margin:auto;
+    padding:20px 20px;
+    background-color:#D8D8EB;
+    width:100%;
+    text-align: center;
+    } 
+h2{
+    padding: 20px 0px 20px;
+}
+.arms{
+    background-color: #C7C7E2;
+    text-align: center;
+}
+.item{
+    display:flex;
+    align-items:center;
+}
+.i1{
+    width:100%;
+}
+.i1 div{
+    padding:10px 30px;
+}
+.about{
+    background-color:#D8D8EB;
+}
+.item1{
+    display:flex;
+    justify-content: center; 
+}
+.i2{
+    width:100%;
+    padding:20px 20px;
+}
+.item2{
+    display:flex;
+}
+.i3{
+    width:100%;
+    padding: 10px 30px;
+}
+.talent p{
+    color:#006000;
+}
+.hp{
+    background-color:#D8D8EB;
+}
+.hp p{
+    color:#006000;
+    font-size:24px;
+    padding:10px;
+}
+.hp1{
+    padding:0px 100px;
+}
